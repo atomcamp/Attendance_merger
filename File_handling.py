@@ -3,8 +3,8 @@ import base64
 import json
 import streamlit as st
 
-GITHUB_TOKEN = st.secrets["GitHub"]["apikey"]
-REPO = "AzeemChaudhry/attendance_merger"
+GITHUB_TOKEN = st.secrets["apikey"]
+REPO = "atomcamp/Attendance_merger"
 BRANCH = "main"
 
 def github_request(method, url, data=None, headers=None):

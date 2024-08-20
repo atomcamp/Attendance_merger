@@ -124,7 +124,7 @@ if st.session_state.logged_in:
     components.html(html_content, height=100) 
 
     # accessing the api key here 
-    GITHUB_TOKEN = st.secrets["GitHub"]["apikey"]
+    GITHUB_TOKEN = st.secrets["apikey"]
     REPO = "AzeemChaudhry/attendance_merger"
     BRANCH = "main"
 
