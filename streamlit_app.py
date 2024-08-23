@@ -160,7 +160,7 @@ if st.session_state.logged_in:
                 # Define URLs for the online files
                 urls = {
                     "DA Black": "DA%20Cohort%2001(Black)%20-%20Trackerrr.csv",
-                    "DA Gray": "DA%20Cohort%2001(Gray)%20-%20Tracker%20-%20Attendence.csv",
+                    "DA Gray": "DA%20Cohort%2001(Gray)%20-%20Tracker%20%20-%20Attendence.csv",
                     "DA White": "DA%20Cohort%2001(White)%20-%20Tracker.csv",
                     "DS6": "DS%20Cohort%2006%20-%20Tracker.csv",
                     "DS7 Green": "/DS%207(Green)%20-%20Tracker.csv",
