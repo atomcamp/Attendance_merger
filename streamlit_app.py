@@ -143,7 +143,7 @@ if st.session_state.logged_in:
 
     def main():
         # available files (can be changed later)
-        menu = ["ML", "DA Gray", "DA Black", "DA White", "DS6", "DS7 Green"]
+        menu = ["ML", "DA Gray", "DA Black", "DA White", "DS6", "DS7 Green","DS8 Red","DS8 Violet"]
 
         col1.subheader("Attendance")
 
