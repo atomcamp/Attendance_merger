@@ -166,7 +166,7 @@ if st.session_state.logged_in:
                     "DS7 Green": "DS%20Cohort%2007(Green)%20-%20Tracker%201.csv",
                     "ML" : "ML%20Cohort%2001%20-%20Trackerr.csv",
                     "DS8 Red" : "DS%20Cohort%208%20Red%20-%20Attendence.csv",
-                    "DS8 Violet" : "DS%20Cohort%208%20Violet%20-%20Attendence.csv"
+                    "DS8 Violet" : "DS%20Cohort%208%20Violet%20-%20Tracker%20%20-%20Attendence.csv"
                 }
 
                 if choice in urls:
